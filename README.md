@@ -2,7 +2,8 @@
 
 :octocat: **Welcome to my Github Profile** :octocat:
 
-Find out more about me on,
+
+*Find out more about me on,*
 <!-- <div align="center"> -->
 <a href="https://www.linkedin.com/in/swapnil-masurekar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height=25></a> 
 <a href="https://medium.com/@swapnil3597" target="_blank"><img src="https://miro.medium.com/max/500/1*Ra88BZ-CSTovFS2ZSURBgg.png?&style=flat-square&logo=linkedin&logoColor=white" alt="Medium" height=25></a> 
