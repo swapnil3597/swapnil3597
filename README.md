@@ -5,10 +5,10 @@
 
 *Find out more about me on,*
 <!-- <div align="center"> -->
-<a href="https://www.linkedin.com/in/swapnil-masurekar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height=25></a> 
-<a href="https://stackoverflow.com/users/11652623/swapnil-masurekar" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Stack_Overflow_logo.png?&style=flat-square&logo=linkedin&logoColor=white" alt="StackOverflow" height=25></a> 
-<a href="https://medium.com/@swapnil3597" target="_blank"><img src="https://miro.medium.com/max/500/1*Ra88BZ-CSTovFS2ZSURBgg.png?&style=flat-square&logo=linkedin&logoColor=white" alt="Medium" height=25></a>
-<a href="https://leetcode.com/swapnil3597/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LeetCode" height=25></a> 
+<a href="https://www.linkedin.com/in/swapnil-masurekar/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" height=25></a> 
+<a href="https://stackoverflow.com/users/11652623/swapnil-masurekar" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="StackOverflow" height=25></a> 
+<a href="https://medium.com/@swapnil3597" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968854.png" alt="Medium" height=25></a>
+<a href="https://leetcode.com/swapnil3597/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height=25></a> 
 
 
 
